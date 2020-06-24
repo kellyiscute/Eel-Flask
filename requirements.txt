@@ -1,0 +1,8 @@
+flask
+flask-sockets
+flask_cors
+gevent
+gevent-websocket==0.10.1
+greenlet==0.4.15
+pkg-resources==0.0.0
+whichcraft==0.6.1
